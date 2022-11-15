@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tutedudescreen2/static/css/main.a24f731a.css",
+    "main.js": "/tutedudescreen2/static/js/main.27ea6eda.js",
+    "static/js/787.6b081a65.chunk.js": "/tutedudescreen2/static/js/787.6b081a65.chunk.js",
+    "index.html": "/tutedudescreen2/index.html",
+    "main.a24f731a.css.map": "/tutedudescreen2/static/css/main.a24f731a.css.map",
+    "main.27ea6eda.js.map": "/tutedudescreen2/static/js/main.27ea6eda.js.map",
+    "787.6b081a65.chunk.js.map": "/tutedudescreen2/static/js/787.6b081a65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24f731a.css",
+    "static/js/main.27ea6eda.js"
+  ]
+}
