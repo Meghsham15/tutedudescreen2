@@ -54,7 +54,7 @@ function App() {
           <div className='super-content'>
             <div className='sec-card'>
               <div className='sec-card-in'>
-                <img src='/img/profile.png'></img>
+                <img src={require('./img/profile.png')}></img>
                 <div>
                   <p className='sec-head'>Invite your Friends</p>
                   <p className='sec-cont'>Share the link tutedude.com with your friends</p>
@@ -63,7 +63,7 @@ function App() {
             </div>
             <div className='sec-card'>
               <div className='sec-card-in'>
-                <img src='/img/tag.png'></img>
+                <img src={require('./img/tag.png')}></img>
                 <div>
                   <p className='sec-head'>Friend purchases any course</p>
                   <p className='sec-cont'>Using your REFERRAL CODE in the payments page</p>
@@ -72,7 +72,7 @@ function App() {
             </div>
             <div className='sec-card'>
               <div className='sec-card-in'>
-                <img src='/img/rupee.png'></img>
+                <img src={require('./img/rupee.png')}></img>
                 <div>
                   <p className='sec-head'>You get ₹ 200 as referral money</p>
                   <p className='sec-cont'>On total purchase the friend makes, into your wallet</p>
@@ -81,7 +81,7 @@ function App() {
             </div>
             <div className='sec-card'>
               <div className='sec-card-in'>
-                <img src='/img/dis.png'></img>
+                <img src={require('./img/dis.png')}></img>
                 <div>
                   <p className='sec-head'>Your Friend gets ₹ 200 Off </p>
                   <p className='sec-cont'>On his overall fee on successful purchase using your referral code </p>
@@ -90,7 +90,7 @@ function App() {
             </div>
             <div className='sec-card'>
               <div className='sec-card-in'>
-                <img src='/img/wall.png'></img>
+                <img src={require('./img/wall.png')}></img>
                 <div>
                   <p className='sec-head'>Transfer money from wallet </p>
                   <p className='sec-cont'>On his overall fee on successful purchase using your referral code </p>
