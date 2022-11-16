@@ -695,6 +695,7 @@ p.sec-cont {
 @media (max-width: 600px) {
   .t-box {
     display: flex;
+    margin-left: -2vw;
     flex-direction: column;
     justify-content: space-between;
 }
@@ -722,8 +723,9 @@ p.sec-cont {
 .t-box .referal-code-box {
   width: 100%;
 }
-.ref-code-box{
+.ref-code-box {
   margin: 0;
+  width: 82vw;
 }
 .ref-code-a {
   margin: 0;
